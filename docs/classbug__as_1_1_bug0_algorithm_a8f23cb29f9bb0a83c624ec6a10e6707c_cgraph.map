@@ -1,0 +1,6 @@
+<map id="bug_as.Bug0Algorithm.planning" name="bug_as.Bug0Algorithm.planning">
+<area shape="rect" id="node1" title="Execute the bug0 algorithm for navigation." alt="" coords="5,71,235,98"/>
+<area shape="rect" id="node2" href="$classbug__as_1_1_bug0_algorithm.html#a415c75cc82663b9138c4670adeb28fc7" title="Change the state of the algorithm." alt="" coords="292,5,512,47"/>
+<area shape="rect" id="node3" href="$classbug__as_1_1_bug0_algorithm.html#ab4efbe520ae0b9ba9e09756ec0df80b7" title="Publish a zero velocity Twist message." alt="" coords="299,71,505,98"/>
+<area shape="rect" id="node4" href="$classbug__as_1_1_bug0_algorithm.html#a1d1bc33e80d319e82928694733541c5b" title="Normalize an angle to the range [&#45;pi, pi]." alt="" coords="283,123,521,164"/>
+</map>
