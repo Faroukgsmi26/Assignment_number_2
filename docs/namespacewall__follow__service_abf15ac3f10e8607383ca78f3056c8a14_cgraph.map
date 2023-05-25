@@ -1,0 +1,4 @@
+<map id="wall_follow_service.take_action" name="wall_follow_service.take_action">
+<area shape="rect" id="node1" title="Function to take action based on the laser scan regions." alt="" coords="5,5,188,47"/>
+<area shape="rect" id="node2" href="$namespacewall__follow__service.html#a78f097ddc9b97580d9f54d95f9c0e321" title="Function to change the state of the wall follower." alt="" coords="236,5,437,47"/>
+</map>

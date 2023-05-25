@@ -1,0 +1,6 @@
+<map id="wall_follow_service.main" name="wall_follow_service.main">
+<area shape="rect" id="node1" title="Main function." alt="" coords="5,64,192,91"/>
+<area shape="rect" id="node2" href="$namespacewall__follow__service.html#ad468da59b5a24f5e71d1f8c6381c5384" title="Function to control the robot&#39;s movement to find the wall." alt="" coords="240,5,453,32"/>
+<area shape="rect" id="node3" href="$namespacewall__follow__service.html#a333a30da2a8f24e46f7b900df6624d65" title="Function to control the robot&#39;s movement to follow the wall." alt="" coords="249,57,444,98"/>
+<area shape="rect" id="node4" href="$namespacewall__follow__service.html#a47da44503aa8f452b553ccf419940d3c" title="Function to control the robot&#39;s movement to turn left." alt="" coords="242,123,451,149"/>
+</map>

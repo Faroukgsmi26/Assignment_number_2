@@ -1,0 +1,5 @@
+<map id="go_to_point_service.fix_yaw" name="go_to_point_service.fix_yaw">
+<area shape="rect" id="node1" title="fix_yaw function." alt="" coords="5,46,212,73"/>
+<area shape="rect" id="node2" href="$namespacego__to__point__service.html#abb8fd97f7fbaccc6b4f1f80b258c7977" title="change_state function." alt="" coords="269,5,472,47"/>
+<area shape="rect" id="node3" href="$namespacego__to__point__service.html#a5cb3225f30d2cdefd5cda701f13e1f9e" title="normalize_angle function." alt="" coords="260,71,481,112"/>
+</map>
