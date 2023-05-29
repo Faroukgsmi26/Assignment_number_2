@@ -11,9 +11,18 @@ For this task, you must build a Gazebo and Rviz package for a robot simulation. 
 ### Starting the simulation
 you can start the simulation by following these steps
 * 1- Make sur to be in the source file of your workspace /work_space/src
-* 2- clone the repository <git clone https://github.com/Faroukgsmi26/Assignment_number_2 >
+* 2- clone the repository 
+```command
+	git clone https://github.com/Faroukgsmi26/Assignment_number_2
+```
 * 3- build the workspace by <catkin_make>
-* 4- launch the launch file **solution.launch** by <roslaunch solution.launch> 
+```command
+	catkin_make
+```
+* 4- launch the launch file by 
+```command
+	roslaunch assignment_2_2022 assignment2.launch
+``` 
      by launching the file, the follwing nodes starts automatically 
      * rviz
      * Gazebo
@@ -24,7 +33,10 @@ you can start the simulation by following these steps
  ### Starting jupyter notebook 
  you can start the jupyter notebook by 
 * 1- make sure you are in /work_space/Assignment2
-* 2- excute the command <juputer notebook --allow-root>
+* 2- excute the command
+```command
+	jupyter notebook --allow-root
+```
   
 
 ## Documentation: Doxygen
