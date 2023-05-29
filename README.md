@@ -28,7 +28,7 @@ you can start the simulation by following these steps
 	roslaunch assignment_2_2022 assignment2.launch
 ``` 
 
-     by launching the file, the follwing nodes starts automatically 
+* 5- by launching the file, the follwing nodes starts automatically 
      * rviz
      * Gazebo
      * user_interface.cpp
