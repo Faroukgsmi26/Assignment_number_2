@@ -37,7 +37,7 @@ you can start the simulation by following these steps
  
  ### Starting jupyter notebook 
  you can start the jupyter notebook by 
-* 1- make sure you are in /work_space/Assignment2
+* 1- make sure you are in /work_space/Assignment_number_2
 * 2- excute the command
 
 ```command
